@@ -35,8 +35,6 @@ def can_be_created_in_a_block(args = { title: "Home Alone", release_date: 1990 }
     m.save
   end
 end
-  end
-end
 
 def can_get_the_first_item_in_the_database
   __
